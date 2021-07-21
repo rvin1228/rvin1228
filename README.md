@@ -1,6 +1,6 @@
 # Hi there, I'm Arvin Legaspi
 
-I am a currently taking up BS Computer Engineering in the Philippines.
+I am currently taking up BS Computer Engineering in the Philippines.
 
 My educational background:
 - Google IT Support Professional
