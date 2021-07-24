@@ -1,4 +1,4 @@
-# Hi there, I'm Arvin Legaspi
+# Hi there, I'm Arvin Rafael Legaspi
 
 I am currently taking up BS Computer Engineering in the Philippines.
 
