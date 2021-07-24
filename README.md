@@ -4,6 +4,7 @@ I am currently taking up BS Computer Engineering in the Philippines.
 
 My educational background:
 - Google IT Support Professional
+- CNSS
 - NSE1 and NSE2 Certified
 - CSFPC™
 
