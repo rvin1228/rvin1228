@@ -1,6 +1,6 @@
 # Hi there, I'm Arvin Rafael Legaspi
 
-I am currently taking up BS Computer Engineering in the Philippines.
+I am currently taking up BS Computer Engineering in the Philippines. Looking to learn more about Cybersecurity.
 
 My educational background:
 - Google IT Support Professional
