@@ -17,7 +17,9 @@ If you'd like to support my work, you may check out the following links below:
 My website:
 - Currently under maintenance.
 
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvin1228&&theme=dark&layout=compact">
+</p>
 <!--
 **rvin1228/rvin1228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
