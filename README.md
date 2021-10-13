@@ -15,7 +15,7 @@ If you'd like to support my work, you may check out the following links below:
 - [LinkedIn](https://www.linkedin.com/in/arvin-rafael-legaspi-30050b1a6)
 
 My website:
-- [Website](https://rvin1228.github.io/) Currently under maintenance.
+- [Website](https://rvin1228.github.io/) *Currently under maintenance.*
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvin1228&&theme=dark&layout=compact">
