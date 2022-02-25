@@ -4,8 +4,8 @@ Currently taking up BS Computer Engineering in the Philippines. Looking to learn
 
 My educational background:
 - Google IT Support Professional
-- CNSS
-- NSE1 and NSE2 Certified
+- ICSI CNSS
+- Fortinet NSE1 and NSE2 Certified
 - CSFPC™
 
 If you'd like to support my work, you may check out the following links below:
