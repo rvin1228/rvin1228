@@ -4,6 +4,7 @@ Currently taking up BS Computer Engineering in the Philippines. Looking to learn
 
 My educational background:
 - Google IT Support Professional
+- Huawei HCIA-AI
 - ICSI CNSS
 - Fortinet NSE1 and NSE2 Certified
 - CSFPC™
