@@ -13,9 +13,12 @@
 - CSFPC™
 
 ## ⚡ GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rvin1228&show_icons=true&theme=dark&locale=en" alt="arvinlegaspi" /></p>
-<br />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rvin1228&show_icons=true&theme=dark&locale=en&layout=compact" alt="arvinlegaspi" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rvin1228&show_icons=true&theme=dark&locale=en"> 
+</p>
+<p align="center"
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rvin1228&show_icons=true&theme=dark&locale=en&layout=compact">
+</p>
 
 If you'd like to support my work, you may check out the following links below:
 
