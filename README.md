@@ -1,3 +1,4 @@
+<img align="center" alt="Banner" src="https://cdn.discordapp.com/attachments/849145577987899426/1105795249823035512/arben_cover.png"/>
 # Hi there, I'm Arvin Rafael Legaspi
 
 Currently taking up BS Computer Engineering in the Philippines. Looking to learn more about Cybersecurity.
