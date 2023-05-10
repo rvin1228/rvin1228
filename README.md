@@ -1,14 +1,21 @@
 <img align="center" alt="Banner" src="https://cdn.discordapp.com/attachments/849145577987899426/1105795249823035512/arben_cover.png"/>
-# Hi there, I'm Arvin Rafael Legaspi
 
-Currently taking up BS Computer Engineering in the Philippines. Looking to learn more about Cybersecurity.
+<h1 align="center">Hi there, I'm Arvin Rafael Legaspi</h1>
+<h3 align="center">Computer Engineer</h3>
+- Graduating BS Computer Engineering in the Philippines.
+- Looking to learn more about Cybersecurity.
 
-My educational background:
+## My educational background:
 - Google IT Support Professional
 - Huawei HCIA-AI
 - ICSI CNSS
 - Fortinet NSE1 and NSE2 Certified
 - CSFPC™
+
+## ⚡ GitHub Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rvin1228&show_icons=true&theme=dark&locale=en" alt="arvinlegaspi" /></p>
+<br />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rvin1228&show_icons=true&theme=dark&locale=en&layout=compact" alt="arvinlegaspi" /></p>
 
 If you'd like to support my work, you may check out the following links below:
 
