@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm Arvin Rafael Legaspi</h1>
 <h3 align="center">Computer Engineer</h3>
 - 💻 Graduating BS Computer Engineering in the Philippines.
-- 🔒 Looking to learn more about Cybersecurity.
+-  🔒 Looking to learn more about Cybersecurity.
 
 ## My educational background:
 - Google IT Support Professional
