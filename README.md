@@ -12,6 +12,11 @@
 - Fortinet NSE1 and NSE2 Certified
 - CSFPC™
 
+## Social Media Connections:
+![Twitter](https://img.shields.io/twitter/follow/aaarbiin?color=%230da2ff&label=Twitter&logo=Twitter&style=for-the-badge) 
+![Github](https://img.shields.io/github/followers/rvin1228?color=%23778899&label=Github&logo=Github&style=for-the-badge)
+
+
 ## ⚡ GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=rvin1228&show_icons=true&theme=dark&locale=en"> 
