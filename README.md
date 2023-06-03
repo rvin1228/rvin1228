@@ -10,7 +10,7 @@
 - Google IT Support Professional
 - Huawei HCIA-AI
 - ICSI CNSS
-- Fortinet NSE1 and NSE2 Certified
+- Fortinet NSE1, NSE2, and NSE3 Certified
 - CSFPC™
 
 ## Social Media Connections:
