@@ -12,7 +12,6 @@
 - ICSI CNSS
 - Fortinet NSE1 and NSE2 Certified
 - CSFPC™
-- Huawei HCIA-Cloud Computing - ongoing
 
 ## Social Media Connections:
 ![Twitter](https://img.shields.io/twitter/follow/aaarbiin?color=%230da2ff&label=Twitter&logo=Twitter&style=for-the-badge) 
