@@ -4,7 +4,7 @@
 <h3 align="center">Computer Engineer (Software Engineer | Cybersecurity Anaylst)</h3>
 
 - 💻 Graduated with B.S. Computer Engineering in the Philippines.
-- 🔒 Looking to learn more about Cybersecurity.
+- 🔒 Looking to learn more about Software Engineering and Cybersecurity.
 
 ## My educational background:
 - Google IT Support Professional
