@@ -1,7 +1,7 @@
 <img align="center" alt="Banner" src="https://cdn.discordapp.com/attachments/849145577987899426/1105795249823035512/arben_cover.png"/>
 
 <h1 align="center">Hi there, I'm  Engr. Arvin Rafael Legaspi</h1>
-<h3 align="center">Computer Engineer (Software Engineer | Cybersecurity Anaylst)</h3>
+<h3 align="center">Computer Engineer (Software Engineer | Cybersecurity Analyst)</h3>
 
 - 💻 Graduated with B.S. Computer Engineering in the Philippines.
 - 🔒 Looking to learn more about Software Engineering and Cybersecurity.
