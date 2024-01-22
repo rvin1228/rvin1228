@@ -8,6 +8,7 @@
 
 ## My educational background:
 - Google IT Support Professional
+- Google Cybersecurity Professional (Ongoing)
 - Huawei HCIA-AI
 - ICSI CNSS
 - Fortinet NSE1, NSE2, and NSE3 Certified
